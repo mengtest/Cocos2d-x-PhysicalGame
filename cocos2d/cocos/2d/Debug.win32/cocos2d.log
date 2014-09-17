@@ -1,0 +1,35 @@
+﻿生成启动时间为 2014/9/13 16:11:20。
+     1>项目“C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\cocos2d.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\" mkdir "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\freetype2\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\curl\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\jpeg\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\png\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\tiff\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\webp\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\websockets\prebuilt\win32\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\..\..\external\win32-specific\gles\prebuilt\*.*" "C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 1 个文件
+         复制了 1 个文件
+         复制了 2 个文件
+         复制了 1 个文件
+         复制了 1 个文件
+         复制了 2 个文件
+         复制了 1 个文件
+         复制了 2 个文件
+         复制了 2 个文件
+         复制了 2 个文件
+         复制了 2 个文件
+       Lib:
+         cocos2d.vcxproj -> C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\proj.win32\Debug.win32\libcocos2d.lib
+     1>已完成生成项目“C:\Users\small_bud\Desktop\Cocos2d-x Projects\Cocos2d-x_Project\FirstGame\cocos2d\cocos\2d\cocos2d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.89
